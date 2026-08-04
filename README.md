@@ -12,9 +12,7 @@
   <a href="mailto:bsse1355@iit.du.ac.bd"><img src="https://img.shields.io/badge/📧_Email-a78bfa?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f172a"/></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=EftiarRimon&label=Profile%20Views&color=7c3aed&style=for-the-badge" />
-</p>
+
 
 <p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
 
