@@ -7,9 +7,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/EftiarRimon"><img src="https://img.shields.io/badge/⭐_GitHub-ffffff?style=for-the-badge&logo=github&logoColor=black&labelColor=0f172a"/></a>
-  <a href="https://www.linkedin.com/in/eftiare-ahmed-rimon-673b12307/"><img src="https://img.shields.io/badge/💼_LinkedIn-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f172a"/></a>
-  <a href="mailto:bsse1355@iit.du.ac.bd"><img src="https://img.shields.io/badge/📧_Email-a78bfa?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f172a"/></a>
+  <a href="https://github.com/EftiarRimon"><img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/eftiare-ahmed-rimon-673b12307/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:bsse1355@iit.du.ac.bd"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 
