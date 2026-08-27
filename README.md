@@ -93,22 +93,6 @@ GPA: 3.25 / 4.00
 
 <p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EftiarRimon&show_icons=true&hide_border=true&bg_color=0f172a&title_color=ffffff&text_color=c4b5fd&icon_color=a78bfa&rank_icon=github" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EftiarRimon&layout=compact&hide_border=true&bg_color=0f172a&title_color=ffffff&text_color=c4b5fd" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EftiarRimon&bg_color=0f172a&color=c4b5fd&line=a78bfa&point=7c3aed&area=true&area_color=4c1d95&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=EftiarRimon&theme=discord&no-frame=true&no-bg=true&column=6&margin-w=15&margin-h=15" />
-</p>
-
-<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
 
 ## 🌐 Connect
 
