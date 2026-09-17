@@ -43,7 +43,7 @@ My experience spans **full-stack web development, backend engineering, enterpris
 </td>
 <td width="28%" align="center">
 
-<img src="assets/profile.png" width="180" height="180" alt="Eftiare Ahmed Rimon"/>
+<img src="profile.png" width="180" height="180" alt="Eftiare Ahmed Rimon"/>
 
 </td>
 </tr>
