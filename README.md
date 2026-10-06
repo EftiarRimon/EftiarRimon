@@ -20,15 +20,15 @@
 <tr>
 <td width="72%" valign="middle">
 
-Software Engineering graduate from **IIT, University of Dhaka**. I build software where reliability matters: **enterprise Java systems, fintech platforms and full-stack web apps**.
+Software Engineering graduate from **IIT, University of Dhaka**. I build **full-stack web apps** from database design to deployment, with industry experience in **enterprise Java systems**.
 
-At **LEADS Corporation** I worked on a capital-market platform used by brokerages and portfolio managers, shipping features and fixing live production issues. Outside work I build full-stack products, distributed systems and small AI experiments.
+I've shipped products for real users, like a university portal with **200+ users** and a ride-sharing platform, and worked on a capital-market platform at **LEADS Corporation**. Outside work I explore distributed systems and small AI experiments.
 
-🟢 **Open to work:** software engineering roles in Bangladesh and remote.
+🟢 **Open to work:** full-stack and software engineering roles in Bangladesh and remote.
 
-| 🎯 Focus | 🏦 Domain | 🌱 Exploring |
+| 🎯 Focus | 🧰 Core stack | 🌱 Exploring |
 | :---: | :---: | :---: |
-| Full-stack & backend | Enterprise & fintech | System design & DevOps |
+| Full-stack web | Next.js · Node.js · MySQL | System design & DevOps |
 
 </td>
 <td width="28%" align="center">
