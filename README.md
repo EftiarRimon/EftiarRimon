@@ -20,11 +20,13 @@
 <tr>
 <td width="72%" valign="middle">
 
-Software Engineering graduate from **IIT, University of Dhaka**, focused on **backend systems**: database design, transactions, concurrency and containerized deployment.
+Backend-focused Software Engineer (B.Sc. in Software Engineering, **IIT, University of Dhaka**). I care about database design, transactions, concurrency and containerized deployment.
 
-I've built a ride-pooling backend that prevents seat overbooking under concurrent requests, a university portal used by **200+ users**, and worked on a capital-market platform at **LEADS Corporation** using enterprise **Java and Oracle PL/SQL**.
+- Built a ride-pooling backend that **prevents seat overbooking under concurrent requests** (PostgreSQL row-level locking, Docker Compose, Vitest/Supertest).
+- Built a university portal with **3 role-based dashboards for 200+ users** (Next.js, Node.js, Prisma, JWT).
+- Interned at **LEADS Corporation** on a capital-market platform (Java, Oracle ADF, PL/SQL): shipped 3 features and fixed production bugs.
 
-🟢 **Open to work:** backend and software engineering roles in Bangladesh and remote.
+🟢 **Open to work:** full-time backend / software engineer roles in Dhaka (hybrid) and remote.
 
 | 🎯 Focus | 🧰 Core stack | 🌱 Exploring |
 | :---: | :---: | :---: |
@@ -45,11 +47,11 @@ I've built a ride-pooling backend that prevents seat overbooking under concurren
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,js,ts,python,cpp,php,react,nextjs,nodejs,express,django&perline=11"/>
-<br/>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,mysql,postgres,mongodb,git,github,docker,nginx,postman&perline=12"/>
+<img src="https://skillicons.dev/icons?i=java,ts,js,nodejs,express,nextjs,react,postgres,mysql,docker,git,postman&perline=12"/>
 
 <sub><b>Enterprise:</b> Java · Oracle ADF · Oracle Database · PL/SQL · WebLogic · MVC/Fusion · BI Publisher</sub>
+<br/>
+<sub><b>Also familiar with:</b> Python · C++ · PHP · Django · MongoDB · Tailwind · Bootstrap · Nginx</sub>
 
 </div>
 
@@ -62,10 +64,12 @@ I've built a ride-pooling backend that prevents seat overbooking under concurren
 <sub>Mar 2025 – Aug 2025 · Dhaka, Bangladesh</sub>
 
 - Delivered **3 features and enhancements** on an enterprise **Java / Oracle ADF** capital-market platform.
-- Diagnosed and resolved **multiple production bugs** by reproducing issues and debugging Java and PL/SQL logic, then deploying fixes and keeping stakeholders updated.
+- Diagnosed and resolved **5 production bugs** by reproducing issues and debugging Java and PL/SQL logic, then deploying fixes and keeping stakeholders updated.
 - Worked across **KYC, trade management, settlement and portfolio accounting**, with integrations to **CDBL, DSE and CSE**.
 - Supported live environments: deployments, release assistance and post-deployment troubleshooting.
 - **Stack:** Oracle Database · WebLogic · ADF · MVC/Fusion · BI Publisher
+
+<!-- TODO: add a "Currently" line here for Aug 2025 to now (personal projects / learning / freelance) so the timeline has no unexplained gap. -->
 
 <br/>
 
@@ -105,6 +109,7 @@ Full-stack portal for 200+ users with three role-based dashboards, JWT authentic
 <br/><br/>
 
 <a href="https://github.com/EftiarRimon/MIT-PORTAL"><img src="https://img.shields.io/badge/View_code-ffb020?style=for-the-badge&logo=github&logoColor=0a1a33"/></a>
+<!-- TODO: deploy (Vercel/Render) and add a Live demo badge like Dhaka Tesla Pool -->
 
 </td>
 
@@ -113,6 +118,7 @@ Full-stack portal for 200+ users with three role-based dashboards, JWT authentic
 <h3>🤖 Text2Code</h3>
 
 Natural language to Python. Benchmarks three Seq2Seq models (RNN, LSTM, BiLSTM with attention) on CodeSearchNet.
+<!-- TODO: add best result here, e.g. "BiLSTM+attention reached X BLEU vs Y for RNN" -->
 
 <br/>
 
@@ -127,7 +133,7 @@ Natural language to Python. Benchmarks three Seq2Seq models (RNN, LSTM, BiLSTM w
 </tr>
 </table>
 
-<sub>Also built: <b>Stack Overflow Clone</b> (team, monolith to distributed) · <b>Rate Limiter &amp; Load Balancer</b> · <b>Wumpus World</b> (team) · <b>Mini Chess</b> (team) · <b>Hostel Management</b> (team) · <b>Tic Tac Toe</b></sub>
+<sub>Also built: <b>Stack Overflow Clone</b> (team, monolith to distributed) · <b>Rate Limiter &amp; Load Balancer</b> · <b>Wumpus World</b> (team) · <b>Mini Chess</b> (team) · <b>Hostel Management</b> (team)</sub>
 
 </div>
 
@@ -137,7 +143,7 @@ Natural language to Python. Benchmarks three Seq2Seq models (RNN, LSTM, BiLSTM w
 
 **B.Sc. in Software Engineering** · Institute of Information Technology (IIT), University of Dhaka
 <br/>
-<sub>CGPA 3.25 / 4.00</sub>
+<sub>CGPA 3.25 / 4.00 · Graduated: 2026</sub>
 
 <br/>
 
